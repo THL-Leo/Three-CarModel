@@ -1,0 +1,7 @@
+body {
+    margin: 0;
+}
+#c {
+    display: block;
+    background-size: cover;
+}
